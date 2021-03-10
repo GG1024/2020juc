@@ -6,7 +6,11 @@
 
     <groupId>com.lucky.juc</groupId>
     <artifactId>juc2021</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>juc01</module>
+    </modules>
 
     <!-- 统一管理 jar 包版本 -->
     <properties>

@@ -1,4 +1,4 @@
-package com.lucky.juc;
+package com.lucky.juc.sync1;
 
 class DecThread extends Thread {
     public void run() {

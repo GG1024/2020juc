@@ -1,4 +1,4 @@
-package com.lucky.juc;
+package com.lucky.juc.sync1;
 
 class AddThread extends Thread {
     @Override

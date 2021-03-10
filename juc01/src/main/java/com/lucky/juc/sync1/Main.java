@@ -1,4 +1,4 @@
-package com.lucky.juc;
+package com.lucky.juc.sync1;
 
 public class Main {
     public static void main(String[] args) throws Exception {
